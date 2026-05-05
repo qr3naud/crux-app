@@ -1,0 +1,7 @@
+title: Crux
+description: Train smarter on the hangboard.
+url: https://qr3naud.github.io
+baseurl: /crux-legal
+theme: minima
+markdown: kramdown
+permalink: pretty
