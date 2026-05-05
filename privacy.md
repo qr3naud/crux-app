@@ -25,7 +25,7 @@ Crux ("the app") is a hangboard training studio for climbers. This policy descri
 |---------|---------|------|
 | Profile | Climbing discipline, grade, training goal, display name (optional), bodyweight, preferred unit (kg/lb) | Personalize benchmarks and training prescriptions |
 | Training data | Sessions, individual pulls, force traces, benchmark entries, structured workout runs | Show progress, generate training reads |
-| Device pairing state | Names of paired Tindeq Progressor units | Quick reconnect; never leaves your account |
+| Device pairing state | Names of paired force-gauge devices | Quick reconnect; never leaves your account |
 
 ### Data the app receives automatically
 | Category | Examples | Why |
@@ -89,4 +89,3 @@ We may update this policy as the app evolves. Material changes will be announced
 
 **Quentin Renaud**
 [reno.quentin@gmail.com](mailto:reno.quentin@gmail.com)
-[github.com/qr3naud/crux](https://github.com/qr3naud/crux)

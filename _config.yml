@@ -1,7 +1,7 @@
 title: Crux
-description: Train smarter on the hangboard.
+description: AI hangboard coach for climbers.
 url: https://qr3naud.github.io
-baseurl: /crux-legal
+baseurl: /crux-app
 theme: minima
 markdown: kramdown
 permalink: pretty
